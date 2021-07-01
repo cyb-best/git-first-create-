@@ -20,9 +20,9 @@ windows安装过程可参考[知乎吴师兄](https://www.zhihu.com/question/301
 
 ### 2.2 常用命令
 
-- ①**git status  **查看仓库状态(用的较为频繁)
+- ①**git status**查看仓库状态(用的较为频繁)
 
-- ②**git init **仓库初始化
+- ②**git init**仓库初始化
 
 - ③**git add** 将文件添加到仓库
 
